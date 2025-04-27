@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <div className="home">
-        <p>Halo guise</p>
+        <p style={{ color: "black" }}>Halo guise</p>
       </div>
     </>
   );
