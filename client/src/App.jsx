@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <div className="home">
-        <p>Halo guise</p>
+        <p>Halo</p>
       </div>
     </>
   );
