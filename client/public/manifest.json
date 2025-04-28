@@ -1,0 +1,16 @@
+{
+  "name": "Portofolio Website",
+  "short_name": "devsan",
+  "description": "Software Engineer | Passionate About UI/UX Design & Emerging Technologies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2A2B2A",
+  "icons": [
+    {
+      "src": "san-profile-logo.jpg",
+      "sizes": "539x165",
+      "type": "image/jpg"
+    }
+  ]
+}
